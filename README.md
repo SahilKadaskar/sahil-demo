@@ -1,3 +1,3 @@
 # sahil-demo
 This is my first Git Repository.
-Author - Sahil Kadaskar.
+<i>Author - Sahil Kadaskar.</i>
